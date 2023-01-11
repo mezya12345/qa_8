@@ -1,4 +1,4 @@
-package homeTests;
+package hometests;
 
 import org.junit.jupiter.api.Test;
 
